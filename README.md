@@ -2,4 +2,4 @@
 - 👀 I’m interested in creating my own programming language (even if it sucks)
 - 🌱 I’m currently learning Python & maybe C++?
 - 📫 How to reach me: on TikTok (@freewifinowhereyougo)
-- 😄 Pronouns: She/They :3
+- 😄 Pronouns: They/Them :3
