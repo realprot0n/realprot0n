@@ -1,5 +1,4 @@
 - 👋 Haiiiiiiiii, im realproton!!! :3
 - 👀 I’m interested in creating my own programming language (even if it sucks)
 - 🌱 I’m currently learning Python & maybe C++?
-- 📫 How to reach me: on TikTok (@freewifinowhereyougo)
 - 😄 Pronouns: They/Them :3
