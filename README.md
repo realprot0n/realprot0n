@@ -1,4 +1,4 @@
 - 👋 Haiiiiiiiii, im realproton!!! :3
 - 👀 I’m interested in creating my own programming language (even if it sucks)
-- 🌱 I’m currently learning Python & C++!
+- 🌱 I’m currently learning Python & Java!
 - 😄 Pronouns: They/Them :3
