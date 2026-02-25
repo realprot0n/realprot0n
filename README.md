@@ -1,4 +1,4 @@
 - 👋 Haiiiiiiiii, im realproton!!!
-- 👀 I’m interested in creating my own programming language (even if it sucks)
-- 🌱 I’m currently learning Python & Java!
+- 👀 I’m interested in creating my own programming language (even if it sucks) and my own gameths (even if they suck too)
+- 🌱 I’m currently learning Python, Java, and GDScript (Godot)!
 - 😄 Pronouns: an y
